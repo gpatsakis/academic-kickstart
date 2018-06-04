@@ -7,14 +7,18 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Awards"
+title = "Selected Awards"
 subtitle = ""
 
 # Order that this section will appear in.
 weight = 65
 
 +++
-
-This is an example of using the *custom* widget to create your own homepage section.
-
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+* Outstanding Graduate Student Instructor Award, IEOR 166, UC Berkeley, Spring 2017<!-- ({{% staticref "files/2017Evaluations.pdf" "newtab" %}}JPG{{% /staticref %}})-->
+* IEOR Faculty Fellowship Award 2017, UC Berkeley<!-- ({{% staticref "files/2017Evaluations.pdf" "newtab" %}}JPG{{% /staticref %}})-->
+* Onassis Foundation Doctoral Fellowship 
+* Chrysovergeio Award 2013 (ranked 1st among the 343 graduates in Electrical and Computer Engineering at NTUA in 2013)
+* Kontaxis Award and Honorary Plate ({{% staticref "img/Kontaxis.jpg" "newtab" %}}JPG{{% /staticref %}})
+* Thomaidis Award 2013 (undergraduate publication award)
+* Eurobank Award (ranked 1st among fellow high-school students in Panhellenic Exams 2018)
+* Silver Medalist in the National Mathematical Olympiad ("Archimedes") 2018
