@@ -62,7 +62,7 @@ enableGitInfo = false
   organizations =  [{name = "UC Berkeley", url = "http://ieor.berkeley.edu/"}]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait1.jpg" # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait3.jpg" # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "gpatsakis@berkeley.edu"
   address = "Tsinghua-Berkeley Shenzhen Institute, 2150 Shattuck Ave, 10th Floor"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
@@ -148,7 +148,7 @@ enableGitInfo = false
   #
   #   For more info on the highlighting options, see:
   #   https://sourcethemes.com/academic/post/writing-markdown-latex/#highlighting-options
-  highlight = true
+  highlight =true 
   highlight_languages = []
   # highlight_style = "github"
 
@@ -226,22 +226,22 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:gpatsakis@berkeley.edu"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+#  [[params.social]]
+#    icon = "twitter"
+#    icon_pack = "fa"
+#    link = "//twitter.com/GeorgeCushen"
 
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+#  [[params.social]]
+#    icon = "google-scholar"
+#    icon_pack = "ai"
+#    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/gcushen"
+#  [[params.social]]
+#    icon = "github"
+#    icon_pack = "fa"
+#    link = "//github.com/gcushen"
 
 
 # Navigation Links
@@ -263,24 +263,24 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "Presentations"
-  url = "#talks"
-  weight = 3
-
-[[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 5
+  weight = 3 
 
 [[menu.main]]
   name = "Awards"
   url = "#awards"
-  weight = 6
+  weight = 4
+
+[[menu.main]]
+  name = "Invited Talks"
+  url = "#talks"
+  weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 7
+  weight = 6
 
 # Taxonomies.
 [taxonomies]

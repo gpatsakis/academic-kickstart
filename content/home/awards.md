@@ -11,13 +11,13 @@ title = "Selected Awards"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 65
+weight =50 
 
 +++
-* Outstanding Graduate Student Instructor Award, IEOR 166, UC Berkeley, Spring 2017<!-- ({{% staticref "files/2017Evaluations.pdf" "newtab" %}}JPG{{% /staticref %}})-->
-* IEOR Faculty Fellowship Award 2017, UC Berkeley<!-- ({{% staticref "files/2017Evaluations.pdf" "newtab" %}}JPG{{% /staticref %}})-->
+* Outstanding Graduate Student Instructor Award 2018, for "outstanding work in the teaching of undergraduates" in IEOR 166, UC Berkeley, Spring 2017  ({{% staticref "img/Outstanding.jpg" "newtab" %}}JPG{{% /staticref %}})
+* IEOR Faculty Fellowship Award 2017, UC Berkeley, the "highest graduate student award in the department of Industrial Engineering & Operations Research" ({{% staticref "img/IEORFaculty.jpg" "newtab" %}}JPG{{% /staticref %}})
 * Onassis Foundation Doctoral Fellowship 
-* Chrysovergeio Award 2013 (ranked 1st among the 343 graduates in Electrical and Computer Engineering at NTUA in 2013)
+* Chrysovergeio Award 2013 (ranked 1st among the 343 Electrical and Computer Engineering graduates at NTUA in 2013)
 * Kontaxis Award and Honorary Plate ({{% staticref "img/Kontaxis.jpg" "newtab" %}}JPG{{% /staticref %}})
 * Thomaidis Award 2013 (undergraduate publication award)
 * Eurobank Award (ranked 1st among fellow high-school students in Panhellenic Exams 2018)

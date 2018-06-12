@@ -33,12 +33,13 @@ weight = 5
 
 # Biography
 
-I am a PhD Candidate in Industrial Engineering and Operations Research (IEOR) at UC Berkeley, California, USA. My advisor is Professor Shmuel S. Oren. I completed my undergraduate studies in the school of Electrical and Computer Engineering (ECE) at the National Technical University of Athens (NTUA), Greece, in 2013, where I worked with Professor Stavros Papathanassiou.
+I am a PhD Candidate in Industrial Engineering and Operations Research (IEOR) at the University of California Berkeley. My advisor is Professor  [Shmuel Oren](http://www.ieor.berkeley.edu/~oren/). I completed my undergraduate studies in the school of Electrical and Computer Engineering (ECE) at the National Technical University of Athens (NTUA), Greece, where I worked with Professor [Stavros Papathanasiou](http://users.ntua.gr/stpapath/index_en.htm).
 
-I am an external collaborator of the Lawrence Livermore National Laboratory. In the past, I have worked for the Calibration Service of the Hellenic Air Force.
+I am an external collaborator of the [Lawrence Livermore National Laboratory](https://www.llnl.gov/). In the past, I worked for the [Calibration Service](https://www.haf.gr/en/structure/hafsc/calibration-service/) of the Hellenic Air Force.
 
-My current research interests lie in the field of Optimization for Power Systems. More specifically, I am interested in developing techniques for modeling and solving large scale Mixed Integer Programs for Power Systems applications, such as the Stochastic Unit Commitment problem and the Power System Restoration problem.
+My current research interests lie in the field of optimization for power systems. Specifically, I am interested in developing techniques for modeling and solving large scale mixed integer programs for power systems applications, such as the stochastic unit commitment problem and the power system restoration problem.
+I also worked on model predictive control for electric drives and modeling and control for wind turbines and HVDC systems. 
 
-I have also worked on model predictive control for electric drives and modeling and control for wind turbines and HVDC systems. I have collaborated with Dr. Deepak Rajan, Ignacio Aravena, Associate Professor Petros Karamanakos, and Dr. Sotirios Nanou.
+I have collaborated with [Deepak Rajan](https://people.llnl.gov/rajan3), [Ignacio Aravena](https://sites.google.com/site/iaravenasolis/home), [Petros Karamanakos](https://scholar.google.com/citations?user=70EUJnQAAAAJ&hl=en), and [Sotirios Nanou](https://scholar.google.gr/citations?user=3OHbnFAAAAAJ&hl=el).
 
 I am a fellow of the Onassis Foundation and recepient of the 2013 Chrysovergis Award and the 2013 ECE Kontaxis Award at NTUA.

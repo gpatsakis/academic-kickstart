@@ -11,12 +11,12 @@ title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 30
 
 +++
 
-* Teaching Assistant for IEOR 166 (Decision Analysis), Spring 2017, UC Berkeley. 
-	* Teaching Evaluations ({{% staticref "files/2017Evaluations.pdf" "newtab" %}}PDF{{% /staticref %}})
-* Instructor for IEOR 166 (Decision Analysis), Spring 2018, UC Berkeley.
+* __Instructor__ for IEOR 166 (Decision Analysis), Spring 2018, UC Berkeley.
 	* Course and Instructor Evaluations ({{% staticref "files/2018Evaluations.pdf" "newtab" %}}PDF{{% /staticref %}})
 	* Class Photo ({{% staticref "img/ClassPhoto.jpg" "newtab" %}}JPG{{% /staticref %}})
+* __Teaching Assistant__ for IEOR 166 (Decision Analysis), Spring 2017, UC Berkeley. 
+	* Teaching Evaluations ({{% staticref "files/2017Evaluations.pdf" "newtab" %}}PDF{{% /staticref %}})
