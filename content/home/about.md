@@ -17,16 +17,16 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD Candidate in Industrial Engineering and Operations Research"
-  institution = "University of California Berkeley, California, USA"
+  institution = "University of California Berkeley, California, USA."
 
 [[education.courses]]
   course = "MSc in Industrial Engineering and Operations Research"
-  institution = "University of California Berkeley, California, USA"
+  institution = "University of California Berkeley, California, USA. GPA:3.97/4.00"
   year = 2016
 
 [[education.courses]]
   course = "BSc in Electrical and Computer Engineering"
-  institution = "National Technical University of Athens, Greece"
+  institution = "National Technical University of Athens, Greece. GPA:9.86/10.00"
   year = 2013
 
 +++
