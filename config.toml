@@ -183,9 +183,9 @@ enableGitInfo = false
   ]
 
   # Configuration of talk pages.
-  [params.talks]
-    # Show talk time?
-    time = false
+#  [params.talks]
+#    # Show talk time?
+#    time = false
 
   # Configuration of publication pages.
   [params.publications]
@@ -273,8 +273,8 @@ enableGitInfo = false
   weight = 4
 
 [[menu.main]]
-  name = "Invited Talks"
-  url = "#talks"
+  name = "Talks"
+  url = "#invitedtalks"
   weight = 5
 
 [[menu.main]]

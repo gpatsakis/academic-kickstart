@@ -20,5 +20,5 @@ weight =50
 * Chrysovergeio Award 2013 (ranked 1st among the 343 Electrical and Computer Engineering graduates at NTUA in 2013)
 * Kontaxis Award and Honorary Plate ({{% staticref "img/Kontaxis.jpg" "newtab" %}}JPG{{% /staticref %}})
 * Thomaidis Award 2013 (undergraduate publication award)
-* Eurobank Award (ranked 1st among fellow high-school students in Panhellenic Exams 2018)
-* Silver Medalist in the National Mathematical Olympiad ("Archimedes") 2018
+* Eurobank Award (ranked 1st among fellow high-school students in Panhellenic Exams 2008)
+* Silver Medalist in the National Mathematical Olympiad ("Archimedes") 2008
