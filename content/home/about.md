@@ -37,8 +37,8 @@ I am a PhD Candidate in Industrial Engineering and Operations Research (IEOR) at
 
 I am an external collaborator of the [Lawrence Livermore National Laboratory](https://www.llnl.gov/). In the past, I worked for the [Calibration Service](https://www.haf.gr/en/structure/hafsc/calibration-service/) of the Hellenic Air Force.
 
-My current research interests lie in the field of optimization for power systems. Specifically, I am interested in developing techniques for modeling and solving large scale mixed integer programs for power systems applications, such as the stochastic unit commitment problem and the power system restoration problem.
-I also worked on model predictive control for electric drives and modeling and control for wind turbines and HVDC systems. 
+My research interests lie in the field of large scale optimization for power systems. Specifically, I am interested in developing techniques for modeling and solving mixed integer programs for power systems applications, such as the stochastic unit commitment problem and the power system restoration problem.
+I have also worked on model predictive control for electric drives and modeling and control for wind turbines and HVDC systems. 
 
 I have collaborated with [Deepak Rajan](https://people.llnl.gov/rajan3), [Ignacio Aravena](https://sites.google.com/site/iaravenasolis/home), [Petros Karamanakos](https://scholar.google.com/citations?user=70EUJnQAAAAJ&hl=en), and [Sotirios Nanou](https://scholar.google.gr/citations?user=3OHbnFAAAAAJ&hl=el).
 
