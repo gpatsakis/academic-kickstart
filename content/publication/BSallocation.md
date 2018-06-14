@@ -1,10 +1,10 @@
 +++
-title = "The Hidden Cost of Priority Dispatch for Wind Power"
-date = 2018-04-01
+title = "A Stochastic Program for Optimal Black Start Allocation"
+date = 2018-04-14T15:04:12-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["G. Patsakis", "S. Oren"]
+authors = ["G. Patsakis", "I. Aravena", "D. Rajan"]
 
 # Publication type.
 # Legend:
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://drive.google.com/file/d/12fOrr4imi-OSd3HBDGYftPi0r916ahnf/view?usp=sharing"
+url_pdf = "/files/StochasticBS.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

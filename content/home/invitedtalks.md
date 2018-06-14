@@ -17,4 +17,4 @@ weight = 55
 * Optimal Black Start Allocation for Power System Restoration, at INFORMS Optimization Denver, Colorado, Mar 24, 2018
 * Value of Flexible Wind Dispatch in Stochastic Unit Commitment, at INFORMS Annual Meeting, Houston, Texas, Oct 23, 2017
 * Black Start Allocation for Power System Restoration, at INFORMS Annual Meeting, Houston, Texas, Oct 23, 2017
-* Reliability Metrics for Renewable Resources and Self-Reserves, at the PSERC Industry-University Members Meeting, May 17, 2017
+* Reliability Metrics for Renewable Resources and Self-Reserves, at the PSERC Industry-University Members Meeting, Pullman, Washington, May 17, 2017
