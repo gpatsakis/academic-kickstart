@@ -35,7 +35,7 @@ weight = 5
 
 I am a PhD Candidate in Industrial Engineering and Operations Research (IEOR) at the University of California Berkeley. My advisor is Professor  [Shmuel Oren](http://www.ieor.berkeley.edu/~oren/). I completed my undergraduate studies in the school of Electrical and Computer Engineering (ECE) at the National Technical University of Athens (NTUA), Greece, where I worked with Professor [Stavros Papathanasiou](http://users.ntua.gr/stpapath/index_en.htm).
 
-I am an external collaborator of the [Lawrence Livermore National Laboratory](https://www.llnl.gov/). In the past, I worked for the [Calibration Service](https://www.haf.gr/en/structure/hafsc/calibration-service/) of the Hellenic Air Force.
+I am an external collaborator of the [Lawrence Livermore National Laboratory](https://www.llnl.gov/). My research is also partly supported by the [Tsinghua-Berkeley Shenzhen Institute](https://tbsi.berkeley.edu/home), Lab 1C (Smart Grid and Renewable Energy). In the past, I worked for the [Calibration Service](https://www.haf.gr/en/structure/hafsc/calibration-service/) of the Hellenic Air Force.
 
 My research interests lie in the field of large scale optimization for power systems. Specifically, I am interested in developing techniques for modeling and solving mixed integer programs for power systems applications, such as the stochastic unit commitment problem and the power system restoration problem.
 I have also worked on model predictive control for electric drives and modeling and control for wind turbines and HVDC systems. 
