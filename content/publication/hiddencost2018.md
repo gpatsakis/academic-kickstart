@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://drive.google.com/file/d/12fOrr4imi-OSd3HBDGYftPi0r916ahnf/view?usp=sharing"
+url_pdf = "/files/HiddenCost2019.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
