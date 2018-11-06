@@ -1,6 +1,6 @@
 +++
 title = "Optimal Black Start Allocation for Power System Restoration"
-date = 2018-05-01
+date = 2018-06-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ authors = ["G. Patsakis", "D. Rajan", "I. Aravena", "J. Rios", "S. Oren"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE Transactions in Power Systems, accepted"
+publication = "IEEE Transactions on Power Systems, vol. 33, no. 6, pp. 6766-6776"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "http://www.optimization-online.org/DB_HTML/2018/02/6450.html"
+url_pdf = "https://ieeexplore.ieee.org/abstract/document/8362717"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

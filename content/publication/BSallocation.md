@@ -1,6 +1,6 @@
 +++
 title = "A Stochastic Program for Optimal Black Start Allocation"
-date = 2018-04-14T15:04:12-07:00
+date = 2018-05-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ authors = ["G. Patsakis", "I. Aravena", "D. Rajan"]
 publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted"
+publication = "To appear in 52nd Hawaii International Conference on System Sciences, IEEE"
 publication_short = ""
 
 # Abstract and optional shortened version.

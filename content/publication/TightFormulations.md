@@ -1,10 +1,10 @@
 +++
-title = "Mixed-integer linear approximations of AC power flow equations for systems under abnormal operating conditions"
-date = 2018-03-03T21:34:15-07:00
+title = "Strong Mixed-Integer Formulations for Power System Islanding and Restoration"
+date = 2018-11-05T22:24:03-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["I. Aravena", "D. Rajan", "G. Patsakis"]
+authors = ["G. Patsakis","D. Rajan", "I. Aravena","S. Oren"]
 
 # Publication type.
 # Legend:
@@ -15,10 +15,10 @@ authors = ["I. Aravena", "D. Rajan", "G. Patsakis"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Power and Energy Society General Meeting (PES), IEEE"
+publication = "Submitted"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "/files/PSGM18.pdf"
+url_pdf = "/files/TightFormulations.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
