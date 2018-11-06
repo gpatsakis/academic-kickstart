@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "/files/TightFormulations.pdf"
+url_pdf = "http://www.optimization-online.org/DB_HTML/2018/11/6912.html"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
