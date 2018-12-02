@@ -18,7 +18,7 @@ authors = ["G. Patsakis", "S. Oren"]
 publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "To appear in 52nd Hawaii International Conference on System Sciences, IEEE"
+publication = "Submitted"
 publication_short = ""
 
 # Abstract and optional shortened version.
