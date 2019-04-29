@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "http://artemis-new.cslab.ece.ntua.gr:8080/jspui/bitstream/123456789/6845/1/DT2014-0013.pdf"
+url_pdf = "http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/16778"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

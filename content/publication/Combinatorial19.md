@@ -1,10 +1,10 @@
 +++
-title = "Strong Mixed-Integer Formulations for Power System Islanding and Restoration"
-date = 2018-11-05T22:24:03-07:00
+title = "A Combinatorial Algorithm for Large-Scale Power System Islanding"
+date = 2019-02-23
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["G. Patsakis","D. Rajan", "I. Aravena","S. Oren"]
+authors = ["G. Patsakis", "S. Oren"]
 
 # Publication type.
 # Legend:
@@ -15,10 +15,10 @@ authors = ["G. Patsakis","D. Rajan", "I. Aravena","S. Oren"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "Second round review in IEEE Transactions on Power Systems"
+publication = "Accepted, 13th IEEE PowerTech"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "http://www.optimization-online.org/DB_HTML/2018/11/6912.html"
+url_pdf = "/files/CombinatorialAlgorithm19.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
