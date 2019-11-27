@@ -40,6 +40,6 @@ I am an external collaborator of the [Lawrence Livermore National Laboratory](ht
 My research interests lie in the field of large scale optimization for power systems. Specifically, I am interested in developing techniques for modeling and solving mixed integer programs for power systems applications, such as the stochastic unit commitment problem and the power system restoration problem.
 I have also worked on model predictive control for electric drives and modeling and control for wind turbines and HVDC systems. 
 
-I have collaborated with [Deepak Rajan](https://people.llnl.gov/rajan3), [Ignacio Aravena](https://sites.google.com/site/iaravenasolis/home), [Petros Karamanakos](https://scholar.google.com/citations?user=70EUJnQAAAAJ&hl=en), and [Sotirios Nanou](https://scholar.google.gr/citations?user=3OHbnFAAAAAJ&hl=el).
+I have collaborated with [Deepak Rajan](https://scholar.google.com/citations?user=SUdiz2AAAAAJ&hl=en), [Ignacio Aravena](https://sites.google.com/site/iaravenasolis/home), [Petros Karamanakos](https://scholar.google.com/citations?user=70EUJnQAAAAJ&hl=en), and [Sotirios Nanou](https://scholar.google.gr/citations?user=3OHbnFAAAAAJ&hl=el).
 
 I am a fellow of the Onassis Foundation and recepient of the 2013 Chrysovergis Award and the 2013 ECE Kontaxis Award at NTUA.
