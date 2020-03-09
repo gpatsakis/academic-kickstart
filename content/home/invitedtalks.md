@@ -14,6 +14,7 @@ subtitle = ""
 weight = 55
 
 +++
+* Mixed Integer Programming Techniques For Efficient Black Start of the Power System, at INFORMS Annual Meeting, Seattle, Washington, Oct 21, 2019
 * Strong Mixed-Integer Formulations for Power System Islanding and Restoration, at INFORMS Annual Meeting, Phoenix, Arizona, Nov 6, 2018
 * Optimal Black Start Allocation for Power System Restoration, at INFORMS Optimization Denver, Colorado, Mar 24, 2018
 * Value of Flexible Wind Dispatch in Stochastic Unit Commitment, at INFORMS Annual Meeting, Houston, Texas, Oct 23, 2017

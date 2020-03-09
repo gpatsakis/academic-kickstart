@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "http://www.optimization-online.org/DB_HTML/2018/11/6912.html"
+url_pdf = "https://ieeexplore.ieee.org/document/8731667"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
