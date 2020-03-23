@@ -15,7 +15,7 @@ weight =50
 
 +++
 * Outstanding Graduate Student Instructor Award 2018, for "outstanding work in the teaching of undergraduates" in IEOR 166, UC Berkeley, Spring 2017  ({{% staticref "img/Outstanding.jpg" "newtab" %}}JPG{{% /staticref %}})
-* IEOR Faculty Fellowship Award 2017, UC Berkeley, the "highest graduate student award in the department of Industrial Engineering & Operations Research" ({{% staticref "img/IEORFaculty.jpg" "newtab" %}}JPG{{% /staticref %}})
+* IEOR Faculty Fellowship Award 2017, UC Berkeley. "The IEOR Faculty Fellowship is the highest graduate student award in the department. This award is given each year to recognize one student for their overall academic excellence and leadership." ({{% staticref "img/IEORFaculty.jpg" "newtab" %}}JPG{{% /staticref %}})
 * Onassis Foundation Doctoral Fellowship 
 * Chrysovergeio Award 2013 (ranked 1st among the 343 Electrical and Computer Engineering graduates at NTUA in 2013)
 * Kontaxis Award and Honorary Plate ({{% staticref "img/Kontaxis.jpg" "newtab" %}}JPG{{% /staticref %}})
