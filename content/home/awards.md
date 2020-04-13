@@ -14,6 +14,7 @@ subtitle = ""
 weight =50 
 
 +++
+* Outstanding Reviewer for the IEEE Transactions on Power Systems 2019 ({{% staticref "img/Reviewer_Georgios_Patsakis.pdf" "newtab" %}}PDF{{% /staticref %}})
 * Outstanding Graduate Student Instructor Award 2018, for "outstanding work in the teaching of undergraduates" in IEOR 166, UC Berkeley, Spring 2017  ({{% staticref "img/Outstanding.jpg" "newtab" %}}JPG{{% /staticref %}})
 * IEOR Faculty Fellowship Award 2017, UC Berkeley. "The IEOR Faculty Fellowship is the highest graduate student award in the department. This award is given each year to recognize one student for their overall academic excellence and leadership." ({{% staticref "img/IEORFaculty.jpg" "newtab" %}}JPG{{% /staticref %}})
 * Onassis Foundation Doctoral Fellowship 
