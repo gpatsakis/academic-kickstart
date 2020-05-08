@@ -18,7 +18,7 @@ authors = ["G. Patsakis","D. Rajan", "I. Aravena","S. Oren"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Accepted in IEEE Transactions on Power Systems"
+publication = "IEEE Transactions on Power Systems, vol. 34, no. 6, pp. 4880-4888"
 publication_short = ""
 
 # Abstract and optional shortened version.
