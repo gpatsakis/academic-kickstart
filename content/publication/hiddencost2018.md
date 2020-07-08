@@ -1,6 +1,6 @@
 +++
 title = "The Hidden Cost of Priority Dispatch for Wind Power"
-date = 2018-05-01
+date = 2019-01-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,10 +15,10 @@ authors = ["G. Patsakis", "S. Oren"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted"
+publication = "52nd Hawaii International Conference on System Sciences, IEEE"
 publication_short = ""
 
 # Abstract and optional shortened version.

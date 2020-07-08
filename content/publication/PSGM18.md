@@ -15,7 +15,7 @@ authors = ["I. Aravena", "D. Rajan", "G. Patsakis"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "Power and Energy Society General Meeting (PES), IEEE"

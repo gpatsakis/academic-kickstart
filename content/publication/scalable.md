@@ -1,10 +1,10 @@
 +++
-title = "Formulations and Valid Inequalities for Optimal Black Start Allocation in Power Systems"
-date = 2020-07-08T10:48:36-07:00
+title = "A scalable mixed-integer decomposition approach for optimal power system restoration"
+date = 2019-02-08T14:04:29-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["G. Patsakis", "I. Aravena", "D. Rajan", "S. Oren"]
+authors = ["I. Aravena", "D. Rajan", "G. Patsakis", "S. Oren"]
 
 # Publication type.
 # Legend:
@@ -42,10 +42,10 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "http://www.optimization-online.org/DB_FILE/2020/07/7884.pdf"
+url_pdf = "http://www.optimization-online.org/DB_FILE/2019/02/7062.pdf"
 url_preprint = ""
 url_code = ""
-url_dataset = "http://dx.doi.org/10.5281/zenodo.3842167"
+url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""

@@ -15,7 +15,7 @@ authors = ["G. Patsakis", "I. Aravena", "D. Rajan"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "52nd Hawaii International Conference on System Sciences, IEEE"
