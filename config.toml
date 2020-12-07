@@ -3,14 +3,14 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://peaceful-haibt-83a500.netlify.com/"
+baseurl = "https://www.gpatsakis.com/"
 
 # Title of your site
 title = "Georgios Patsakis"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2020"
 
 theme = "academic"
 enableEmoji = true
@@ -55,16 +55,16 @@ enableGitInfo = false
 
   # Your details.
   name = "Georgios Patsakis"
-  role = "PhD Candidate"
+  role = "Applied Scientist"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations =  [{name = "UC Berkeley", url = "http://ieor.berkeley.edu/"}]
+  organizations =  [{name = "Amazon", url=""}]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait3.jpg" # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "gpatsakis@berkeley.edu"
-  address = "Tsinghua-Berkeley Shenzhen Institute, 2150 Shattuck Ave, 10th Floor"
+  #address = "Tsinghua-Berkeley Shenzhen Institute, 2150 Shattuck Ave, 10th Floor"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   #skype = "echo123"

@@ -14,6 +14,7 @@ subtitle = ""
 weight = 55
 
 +++
+* Mixed Integer Programming Techniques for Efficient Black Start of the Power System, online webinar for the [Power Systems Engineering Research Center](https://pserc.wisc.edu/home.aspx) and the [Energy Systems Innovation Center of Washington State University](https://events.wsu.edu/event/energy-systems-innovation-center-fa20-seminar-series-georgios-patsakis-uc-berkeley/) ([slides](https://pserc.wisc.edu/general_information/presentations/pserc_seminars/webinars_2020/Webinar%20Slides%20Georgios%20Patsakis%209-22-20.pdf)) 
 * Mixed Integer Programming Techniques For Efficient Black Start of the Power System, at INFORMS Annual Meeting, Seattle, Washington, Oct 21, 2019
 * Strong Mixed-Integer Formulations for Power System Islanding and Restoration, at INFORMS Annual Meeting, Phoenix, Arizona, Nov 6, 2018
 * Optimal Black Start Allocation for Power System Restoration, at INFORMS Optimization Denver, Colorado, Mar 24, 2018

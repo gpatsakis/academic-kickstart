@@ -16,8 +16,9 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD Candidate in Industrial Engineering and Operations Research"
+  course = "PhD in Industrial Engineering and Operations Research"
   institution = "University of California Berkeley, California, USA."
+  year = 2020
 
 [[education.courses]]
   course = "MSc in Industrial Engineering and Operations Research"
@@ -33,13 +34,15 @@ weight = 5
 
 # Biography
 
-I am a PhD Candidate in Industrial Engineering and Operations Research (IEOR) at the University of California Berkeley. My advisor is Professor  [Shmuel Oren](http://www.ieor.berkeley.edu/~oren/). I completed my undergraduate studies in the school of Electrical and Computer Engineering (ECE) at the National Technical University of Athens (NTUA), Greece, where I worked with Professor [Stavros Papathanasiou](http://users.ntua.gr/stpapath/index_en.htm).
+I am an Applied Scientist in Middle-Mile Planning Research and Optimization Science at Amazon.
 
-I am an external collaborator of the [Lawrence Livermore National Laboratory](https://www.llnl.gov/). My research is also partly supported by the [Tsinghua-Berkeley Shenzhen Institute](https://tbsi.berkeley.edu/home), Lab 1C (Smart Grid and Renewable Energy). I have also worked for Middle-Mile Planning Research and Optimization Science at Amazon and for the [Calibration Service](https://www.haf.gr/en/structure/hafsc/haf-calibration-agency/) of the Hellenic Air Force.
+I got my PhD in Industrial Engineering and Operations Research (IEOR) at the University of California Berkeley. My advisor was Professor  [Shmuel Oren](http://www.ieor.berkeley.edu/~oren/). I completed my undergraduate studies in the school of Electrical and Computer Engineering (ECE) at the National Technical University of Athens (NTUA), Greece, where I worked with Professor [Stavros Papathanasiou](http://users.ntua.gr/stpapath/index_en.htm).
 
-My research interests lie in the field of large scale optimization for power systems. Specifically, I am interested in developing techniques for modeling and solving mixed integer programs for power systems applications, such as the stochastic unit commitment problem and the power system restoration problem.
+I have served as an external collaborator of the [Lawrence Livermore National Laboratory](https://www.llnl.gov/). My research has also been partly supported by the [Tsinghua-Berkeley Shenzhen Institute](https://tbsi.berkeley.edu/home), Lab 1C (Smart Grid and Renewable Energy). I have also worked for the [Calibration Service](https://www.haf.gr/en/structure/hafsc/haf-calibration-agency/) of the Hellenic Air Force.
+
+My research interests lie in the field of large scale computational optimization. Specifically, I am interested in developing techniques for modeling and solving mixed integer programs for large scale applications, such as the stochastic unit commitment problem and the power system restoration problem in power systems and the vehicle routing problem in logistics.
 I have also worked on model predictive control for electric drives and modeling and control for wind turbines and HVDC systems. 
 
 I have collaborated with [Deepak Rajan](https://scholar.google.com/citations?user=SUdiz2AAAAAJ&hl=en), [Ignacio Aravena](https://sites.google.com/site/iaravenasolis/home), [Petros Karamanakos](https://scholar.google.com/citations?user=70EUJnQAAAAJ&hl=en), and [Sotirios Nanou](https://scholar.google.gr/citations?user=3OHbnFAAAAAJ&hl=el).
 
-I am a fellow of the Onassis Foundation and recepient of the 2013 Chrysovergis Award and the 2013 ECE Kontaxis Award at NTUA.
+During my PhD, I was a fellow of the Onassis Foundation. I am also the recepient of the 2013 Chrysovergis Award and Kontaxis Award for the highest ranked graduate of Electrical and Computer Engineering at the National Technical University of Athens the year 2013.
