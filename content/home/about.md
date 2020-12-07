@@ -45,4 +45,4 @@ I have also worked on model predictive control for electric drives and modeling 
 
 I have collaborated with [Deepak Rajan](https://scholar.google.com/citations?user=SUdiz2AAAAAJ&hl=en), [Ignacio Aravena](https://sites.google.com/site/iaravenasolis/home), [Petros Karamanakos](https://scholar.google.com/citations?user=70EUJnQAAAAJ&hl=en), and [Sotirios Nanou](https://scholar.google.gr/citations?user=3OHbnFAAAAAJ&hl=el).
 
-During my PhD, I was a fellow of the Onassis Foundation. I am also the recepient of the 2013 Chrysovergis Award and Kontaxis Award for the highest ranked graduate of Electrical and Computer Engineering at the National Technical University of Athens the year 2013.
+During my PhD, I was a fellow of the Onassis Foundation. I am also the recipient of the 2013 Chrysovergis Award and Kontaxis Award for the highest ranked graduate of Electrical and Computer Engineering at the National Technical University of Athens the year 2013.
