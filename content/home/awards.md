@@ -18,8 +18,8 @@ weight =50
 * Outstanding Graduate Student Instructor Award 2018, for "outstanding work in the teaching of undergraduates" in IEOR 166, UC Berkeley, Spring 2017  ({{% staticref "img/Outstanding.jpg" "newtab" %}}JPG{{% /staticref %}})
 * IEOR Faculty Fellowship Award 2017, UC Berkeley. "The IEOR Faculty Fellowship is the highest graduate student award in the department. This award is given each year to recognize one student for their overall academic excellence and leadership." ({{% staticref "img/IEORFaculty.jpg" "newtab" %}}JPG{{% /staticref %}})
 * Onassis Foundation Doctoral Fellowship
-* Chrysovergeio Award 2013 (ranked 1st among the 343 Electrical and Computer Engineering graduates of the National Technical University of Athens in 2013)
-* Kontaxis Award and Honorary Plate ({{% staticref "img/Kontaxis.jpg" "newtab" %}}JPG{{% /staticref %}})
-* Thomaidis Award 2013 (undergraduate publication award)
+* Chrysovergeio Award 2013 for ranking 1st among the 343 Electrical and Computer Engineering graduates of the National Technical University of Athens in 2013 ({{% staticref "img/Chrysovergeio.pdf" "newtab" %}}JPG{{% /staticref %}} - in Greek)
+* Kontaxis Award and Honorary Plate ({{% staticref "img/Kontaxis.jpg" "newtab" %}}JPG{{% /staticref %}} - in Greek)
+* Thomaidis Award 2013 for undergraduate publication ({{% staticref "img/Thomaidis.pdf" "newtab" %}}JPG{{% /staticref %}} - in Greek)
 * Eurobank Award (ranked 1st among fellow high-school students in Panhellenic Exams 2008)
 * Silver Medalist in the Greek National Mathematical Olympiad ("Archimedes") 2008
